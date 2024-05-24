@@ -24,7 +24,7 @@ A parking user has basically 5 options to park their vehicle in parking lot and 
 - Valet Parking
 $18 per day
 $12 for five hours or less
-a. (When user is using valet Parking option 
+(When user is using valet Parking option 
       1. For Five hours or less the valet cost will be $12.
       2. for whole 24 hours He/She can park their vehicle for $18
       3. If exceeded then charges will apply for whole day )
