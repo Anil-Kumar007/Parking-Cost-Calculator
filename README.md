@@ -1,7 +1,7 @@
 # Parking-Cost-Calculator
 A demo website PARKING COST CALCULATOR where tester can test the application for parking their vehicle under different circumstances.
+![image](https://github.com/Anil-Kumar007/Parking-Cost-Calculator/assets/156831352/39941c5e-c21b-47ea-adf4-7a873cd61eb2)
 
-A demo website PARKING COST CALCULATOR where tester can test the application for parking their vehicle under different circumstances. 
 
 Web app link:  **https://www.shino.de/parkcalc/**
 
