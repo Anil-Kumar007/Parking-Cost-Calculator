@@ -17,6 +17,9 @@ A parking user has basically 5 options to park their vehicle in parking lot and 
 - Long-Term Surface Parking (North Lot)
 - Economy Lot Parking
 
+![image](https://github.com/Anil-Kumar007/Parking-Cost-Calculator/assets/156831352/98a6d4c8-1517-4459-9fbd-8645c2fc761d)
+
+
 
 - Valet Parking
 $18 per day
