@@ -89,7 +89,7 @@ Tester Roles and Responsibilities:
 
 ==========================================================================================================================================================================
 
-Hypotetically assuming some UI Requirements:
+Hypotetically assuming some Requirements:
 1. UI Requirements:
    Requirement 1
    a. The name of the Website will be "Parking-Cost-Calculator" the name should reflect on upper mid side.
@@ -108,6 +108,8 @@ Hypotetically assuming some UI Requirements:
 
          #In second coloumn first row
          - There is a requirement of drop down which includes above mentioned parking lots
+         - By default name will show as "Vallet Parking" in drop down menu
+           
          #In Second coloumn Second row
          - There is requirement of two edit box and two radio button
            1. Date field format (MM/DD/YY) and
@@ -123,4 +125,13 @@ Hypotetically assuming some UI Requirements:
          #In second column Fourth row
          - Total Balance should reflect once vehicle is about to left the parking lot
          - By default it should reflect $ 0.
-         
+
+   Requirement 3
+   a. requirement of Calculate button
+   b. name of button will be calculate
+
+   Requirement 4
+   a. requirement of Reset button
+   b. name of button will be Reset
+   c. It will reset all fields to default fields in table.
+
