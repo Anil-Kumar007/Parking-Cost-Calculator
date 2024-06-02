@@ -87,3 +87,39 @@ Tester Roles and Responsibilities:
 - System Testing Test Cases
 3. Prepare Defect log
 
+================================================================================================================================================================================================================
+
+Hypotetically assuming some UI Requirements:
+1. UI Requirements:
+   Requirement 1
+   a. The name of the Website will be "Parking-Cost-Calculator" the name should reflect on upper mid side.
+   b. The color will be used as purple color.
+
+   Requirement 2
+   a. A table will be form which includes
+      1. two coloumns and
+      2. four rows
+
+         #In first coloumn all four rows:
+         - Choose a Parking Lot
+         - Please input entry date and time
+         - Please input leaving date and time
+         - ESTIMATED PARKING COSTS
+
+         #In second coloumn first row
+         - There is a requirement of drop down which includes above mentioned parking lots
+         #In Second coloumn Second row
+         - There is requirement of two edit box and two radio button
+           1. Date field format (MM/DD/YY) and
+           2. timmings
+           3. AM / PM radio buttons
+          
+         #In second coloumn third row
+         - There is requirement of two edit box and two radio button
+           1. Date field  (MM/DD/YY) and
+           2. timmings
+           3. AM / PM radio buttons
+         #In second column Fourth row
+         - Total Balance should reflect once vehicle is about to left the parking lot
+         - By default it should reflect $ 0.
+         
