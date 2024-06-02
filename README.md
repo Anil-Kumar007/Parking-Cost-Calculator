@@ -1,3 +1,26 @@
+Don't forget to give a ⭐ to make the project popular.
+💥 What is it all about?
+This project contains sample set of test cases for manual testers to help them save time for writing manual test cases. It also has the templates for the Test planning and Bug bash.
+
+⛳ Why was this project created?
+It is always a tedious and boring task to write test cases, which takes most of the time of software testing. Hence, I decided to make generic test cases for the functionality majorly used in software testing so anyone can just download the copy and use it directly in their projects and save their time wasted in writing the generic test cases.
+
+💡 Sample Test Cases and templates are added for the following:
+Generic field level test cases for Textbox, Dropdown-box/Multi-Dropdownbox, Checkbox, Radio button, Submit/Save/Cancel button and Date fields,
+Sample Test cases for Export Functionality.
+Sample Test cases for Import Functionality.
+Sample Test cases for Testing reports.
+Sample Test cases for testing Mobile apps.
+General Test Cases for Login functionality.
+Test Planning Checklist.
+Bug bash sheet template.
+❓ Need Assistance?
+Discuss your queries by writing to me @ anil.kumarofficial95@yahoo.com
+Connect me at LinkedIn or Twitter
+If you find that anything is missing/have not been considered in the generic cases, then you can create a new issue with required details, and I'll update the cases accordingly at the earliest.
+Contact me for 1:1 trainings related to Test Automation/Software Testing.
+
+
 # Parking-Cost-Calculator
 A demo website PARKING COST CALCULATOR where tester can test the application for parking their vehicle under different circumstances.
 ![image](https://github.com/Anil-Kumar007/Parking-Cost-Calculator/assets/156831352/39941c5e-c21b-47ea-adf4-7a873cd61eb2)
