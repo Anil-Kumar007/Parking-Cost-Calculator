@@ -119,6 +119,7 @@ Hypotetically assuming some UI Requirements:
            1. Date field  (MM/DD/YY) and
            2. timmings
            3. AM / PM radio buttons
+              
          #In second column Fourth row
          - Total Balance should reflect once vehicle is about to left the parking lot
          - By default it should reflect $ 0.
